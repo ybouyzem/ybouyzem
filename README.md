@@ -1,8 +1,10 @@
-### Hi there 👋
-## 📘 About Me:
+### <p align="center"><b>Hi👋, I am Younes Bouyzem</b></p>
+
+### 📘 About Me:
 - Studying: Computer Science at 1337 Khouribga (42 Network)
-- LinkedIn: https://www.linkedin.com/in/bouyzem-younes-0b6308240/?originalSubdomain=ma
-## 42 Cursus
+- LinkedIn: <a href="[https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/bouyzem-younes-0b6308240/?originalSubdomain=ma)" target="_blank">LinkedIn Profile</a>
+
+### 42 Cursus
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ybouyzem" alt="ybouyzem's 42 stats" /></a>
 <!--
 **ybouyzem/ybouyzem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
