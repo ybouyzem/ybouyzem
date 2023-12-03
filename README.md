@@ -7,10 +7,13 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ybouyzem" alt="ybouyzem's 42 stats" /></a>
 ### Social Media
 <div style="display: flex; justify-content: center;">
-  <a href="https://www.linkedin.com/in/bouyzem-younes-0b6308240/?originalSubdomain=ma" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" width="30" height="30"></a>
+  <a href="https://www.linkedin.com/in/bouyzem-younes-0b6308240/?originalSubdomain=ma" target="_blank">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" width="30" height="30">
+  </a>
 
-<a href="https://www.instagram.com/bouyzem.younes" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"></a>
-
+  <a href="https://www.instagram.com/bouyzem.younes" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30">
+  </a>
 </div>
 
 
