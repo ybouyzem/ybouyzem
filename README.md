@@ -1,6 +1,5 @@
 ### <p align="center"><b>Hi👋, I am Younes Bouyzem</b></p>
 
-### 📘 About Me:
 - Studying: Computer Science at 1337 Khouribga (42 Network)
 
 ### 42 Cursus:
