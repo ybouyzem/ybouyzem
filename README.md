@@ -5,8 +5,9 @@
 
 ### 42 Cursus:
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ybouyzem" alt="ybouyzem's 42 stats" /></a>
+
 #### Connect with me:
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; margin-bottom: 10px">
   <a href="https://www.linkedin.com/in/bouyzem-younes-0b6308240/?originalSubdomain=ma" target="_blank">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" width="30" height="30">
   </a>
@@ -15,9 +16,9 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30">
   </a>
 </div>
-
-
-
+<img src = "https://github-readme-stats.vercel.app/api?username=ybouyzem&show_icons=true&theme=gruvbox">
+<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ybouyzem&layout=compact">
+ -->
 
 
 
