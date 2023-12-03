@@ -6,6 +6,9 @@
 
 ### 42 Cursus
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ybouyzem" alt="ybouyzem's 42 stats" /></a>
+
+<p align="center"><a href="https://www.instagram.com/bouyzem.younes"><img src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="Instagram" width="30" height="30"></a></p>
+
 <!--
 **ybouyzem/ybouyzem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
