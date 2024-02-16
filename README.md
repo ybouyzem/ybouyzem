@@ -3,7 +3,7 @@
 - Studying: Computer Science at 1337 Khouribga (42 Network)
 
 ### 42 Cursus:
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ybouyzem" alt="ybouyzem's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ybouyzem" alt="ybouyzem's 42 stats" /></a>
 
 #### Connect with me:
 <div style="display: flex; justify-content: center;">
